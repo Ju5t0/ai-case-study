@@ -15,3 +15,13 @@ Apple really stands in the tech field of daily life more specifically within con
 There has been a number of tech trends in the field. There is AI in healthcare, Privacy and Data security, Voice activated assistance and NLP.
 The other well known major companies in the field is Google who is known for their Google Assistant and advancements in NLP and machine learning. Amazon with Alexa, Amazon has been a leader in voice recognition technology and smart home integration. as well as Microsoft wich offers Cortana and has invested heavily in AI research and cloud computing services.
 ## Results
+For business impact Siri has contributed to Apple’s ecosystem by enhancing the user experience across its devices, leading to increased sales of iPhones, iPads, and other products resulting in revenue generation. Siri’s capabilities really paved the way for broader applications in smart homes, health tech, and automotive technologies, etc. expanding the market for things like voice-activated solutions.
+Core metrics that companies use would be User satisfacation, Retention rates, as well as user adoptions rates.
+Apple is one of the leading players in the voice assistant market, though it competes very closely with Google Assistant and Amazon's Alexa, both of which have larger ecosystems in smart home devices and products.
+## Recommendations
+I would like to build a focus more on health with this kimd of technology so I would create a personalized health assistant. An AI driven health management app that tracks the users health metrics, suggests personalized wellness plans, and offers reminders for things like medication, exercise, and appointments..
+This personalized health assistant capitalizes on the increasing consumer focus on wellness and health, creating newer revenue streams and reinforcing Apple’s commitment to the users well-being.
+This new invention would utilize Machine learning to analyze the users data and provide healthy personalized recommendations.
+The Machine Learning Allows the health assistant to adapt and improve over time based on user interactions and health data, this leads to advice offers.
+## Refrences
+I use ChatGPT to obtain this information and well as pull quotes.
